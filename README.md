@@ -4,12 +4,13 @@ I am fluent in Web Development and most Web Dev Languags such as:<br></br>
 * CSS
 * PHP
 * mySQL
+* VB / C#
 
 I am currently focusing my studies on:<br></br>
-*Quality Assurance (bug or not a bug, characteristics that make a good tester, bug tracking/reporting methodology)
-*Secutiy+ Certifications
-*Python
-*Visual Basic / C# / C++
+*Quality Assurance<br></br>
+*Security + Certifications<br><br></br></br>
+*
+
 
 
 
