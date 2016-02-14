@@ -6,10 +6,15 @@ I am fluent in Web Development and most Web Dev Languags such as:
 * mySQL
 
 I am currently focusing my studies on:
--Quality Assurance (bug or not a bug, characteristics that make a good tester, bug tracking/reporting methodology)
--Secutiy+ Certifications
--Python
--VB / C# / C++
-To show off my mad skills to potential employers, duh!
+*Quality Assurance (bug or not a bug, characteristics that make a good tester, bug tracking/reporting methodology)
+*Secutiy+ Certifications
+*Python
+*Visual Basic / C# / C++
 
-//Changed from blank readme to description of my studies and areas of specialization in the IT field
+
+
+
+//02-13-16 19:55 CST//
+Changed from blank readme to description of my studies and areas of specialization in the IT field 
+//02-13-16 19:55 CST//
+Intended as a quick summary of skills and qualifications for potential employers to review before examining resume, perhaps.
