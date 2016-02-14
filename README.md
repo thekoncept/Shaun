@@ -11,3 +11,5 @@ I am currently focusing my studies on:
 -Python
 -VB / C# / C++
 To show off my mad skills to potential employers, duh!
+
+//Changed from blank readme to description of my studies and areas of specialization in the IT field
